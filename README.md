@@ -4,4 +4,4 @@ For example: most frequently downloaded applications, review trends, app categor
 And predicted some insights like which categories might get the best ratings or which apps could become really popular. 
 By putting all this information together on the dashboard, it helps app makers and other people decide which types of apps or specific apps are the best ones to focus on to get more people interested.
 <hr>
-
+<img src="DASHBOARD.JPG">
